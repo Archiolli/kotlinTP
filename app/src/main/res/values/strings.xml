@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Unisanta</string>
+    <string name="campo_titulo">Titulo do filme</string>
+    <string name="campo_desc">Descrição</string>
+    <string name="campo_nota">Nota do usuário</string>
+    <string name="campo_link">Link do video</string>
+    <string name="btn_cadastrar">Adicionar Filme</string>
+    <string name="cadastrados">Ver lista de filmes</string>
+    <string name="usuario_imagem">Imagem do filme</string>
+</resources>
